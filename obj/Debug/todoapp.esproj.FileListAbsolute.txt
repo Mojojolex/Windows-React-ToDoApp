@@ -1,0 +1,1 @@
+C:\Users\USER\Documents\03_Software Development\02_Personal Github Projects\Linux\02_ReactJs\To Do App\ToDoApp\obj\Debug\todoapp.esproj.CoreCompileInputs.cache
